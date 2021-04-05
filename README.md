@@ -1,7 +1,7 @@
 # **R Trading Bot for Sports Betting** :moneybag::dollar:
 
 
-RBot is a ready to go trading bot structure written in R for sports betting markets. It utilizes the API from <img src='figures/pinnacle.jpg' width=100/> (https://github.com/pinnacleapi)
+RBot is a ready to go trading bot structure written in R for sports betting markets. It utilizes the API from <img src='figures/pinnacle.jpg' width=100 height=25/> (https://github.com/pinnacleapi)
 and rewrites parts of the code to optimize for better performance.
 The main functions are:
 * Runs on client systems as well as on servers and is built for maximum stability and robustness as far as possible within the R framework which is not meant for production:computer::rofl:
